@@ -4,9 +4,9 @@
  */
 
 // mongodb配置
-// var dbConfig = {
-//   address: 'mongodb://localhost:27017/listener',
-// };
+var dbConfig = {
+  address: 'mongodb://localhost:27017/listener',
+};
 
 // mysql配置
 // var dbConfig = {
